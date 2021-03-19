@@ -9,3 +9,20 @@ body {
     padding: 15px 0;
     text-align: center;
 }
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    background: antiquewhite;
+    margin-bottom: 32px;
+}
+
+.navbar a {
+    padding: 5px 15px;
+    color: cornflowerblue;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    color: darkslategrey;
+}
